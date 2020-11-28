@@ -1,0 +1,12 @@
+
+img  {
+    height: 300px !important;
+}
+
+a, .results{
+    display: block;
+}
+
+h3{
+    text-decoration: underline;
+}
